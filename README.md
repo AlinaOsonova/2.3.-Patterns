@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/AlinaOsonova/2.3.-Patterns/actions/workflows/%20gradle.yml/badge.svg)](https://github.com/AlinaOsonova/2.3.-Patterns/actions/workflows/%20gradle.yml)
+![2025-03-10_15-36-18](https://github.com/user-attachments/assets/69b60029-ce24-4bca-af2c-d25d70dd47cc)
